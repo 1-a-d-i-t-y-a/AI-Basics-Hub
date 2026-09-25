@@ -1,0 +1,22 @@
+{
+  "name": "AI Basics Hub",
+  "type": "Digital Marketing Project",
+  "industry": "AI / Technology Education",
+  "valueProposition": "Learn AI and emerging technology through simple, practical and beginner-friendly resources.",
+  "primaryAudience": ["AI/ML students", "AI beginners"],
+  "secondaryAudience": ["Developers", "Working professionals"],
+  "channels": ["WordPress website", "SEO", "Instagram", "Facebook", "LinkedIn", "Google Ads planning", "GA4", "Email marketing"],
+  "phases": [
+    "Phase 1 — Fundamentals, AI tools, WordPress and social media",
+    "Phase 2 — SEO, Search Console, link building/local SEO, Google Ads/PPC and GA4",
+    "Phase 3 — Email marketing, assignments/live-project planning, optimization and reporting"
+  ],
+  "executionStatus": {
+    "website": "Project artifact / reconstructed evidence",
+    "seo": "Framework and planning documented",
+    "social": "Content planning and creative documented",
+    "googleAds": "Planned; not launched",
+    "email": "Planned; not sent",
+    "analytics": "Measurement framework documented"
+  }
+}
