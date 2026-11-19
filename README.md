@@ -23,6 +23,18 @@ Live Site: **[https://1-a-d-i-t-y-a.github.io/AI-Basics-Hub/](https://1-a-d-i-t-
 
 ---
 
+## Visual Documentation & Project Artifacts
+
+| Platform Homepage & Layout | Search Console & Analytics Audit |
+| :---: | :---: |
+| ![Homepage Showcase](assets/images/03_homepage.png) | ![Search Console Planning](assets/images/04_search_console.png) |
+
+| Campaign Planning Framework | Content Workflow Kanban Board |
+| :---: | :---: |
+| ![Google Ads Strategy](assets/images/05_ads_plan.png) | ![Workflow Management](assets/images/08_workflow_board.png) |
+
+---
+
 ## Transparency & Project Context
 
 This project documents strategy, planning frameworks, and implementation methodology for an educational platform. Planned initiatives (such as Google Ads campaigns and email marketing automation) are explicitly cataloged as planning and reconstruction artifacts rather than active historical ad spend.
