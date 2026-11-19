@@ -60,4 +60,4 @@ The site uses standard web technologies without external framework build steps:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+All rights reserved. This repository contains digital marketing strategy frameworks and educational documentation.
