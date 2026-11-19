@@ -1,34 +1,51 @@
-[README.md](https://github.com/user-attachments/files/32666842/README.md)
-# AI Basics Hub — Digital Marketing Project
+# AI Basics Hub — Digital Marketing Strategy Portal
 
-GitHub-ready static portfolio/documentation site for the **AI Basics Hub** Digital Marketing internship project.
+[![Pages Deployment](https://github.com/1-a-d-i-t-y-a/AI-Basics-Hub/actions/workflows/pages.yml/badge.svg)](https://github.com/1-a-d-i-t-y-a/AI-Basics-Hub/actions/workflows/pages.yml)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-Vanilla-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-## What is included
+A static web portfolio and documentation portal for the **AI Basics Hub** digital marketing project, showcasing technical search engine optimization, content strategy, paid-search planning, and web analytics.
 
-- Responsive static project website (`index.html`)
-- CSS and JavaScript in `assets/`
-- Eight reconstructed evidence screenshots
-- Complete project documentation in `docs/AI_Basics_Hub_Digital_Marketing_Project.md`
-- Project metadata in `data/project.json`
-- GitHub Pages support via `.nojekyll`
-- Optional GitHub Actions workflow in `.github/workflows/pages.yml`
+Live Site: **[https://1-a-d-i-t-y-a.github.io/AI-Basics-Hub/](https://1-a-d-i-t-y-a.github.io/AI-Basics-Hub/)**
 
-## Evidence note
+---
 
-This repository intentionally distinguishes **planned/documented work** from live platform results. Google Ads and email marketing are shown as planning artifacts and are explicitly marked as not launched/not sent. Search Console/analytics screens are reconstructed project evidence and should not be interpreted as historical traffic data.
+## What is Included
 
-## Deploy with GitHub Pages
+* **Responsive Showcase Website (`index.html`):** Built with semantic HTML5, modern CSS Grid/Flexbox, and vanilla JavaScript.
+* **Open Graph & SEO Metadata:** Configured for social sharing and search indexing.
+* **Evidence Screenshots (`assets/images/`):** Eight project artifacts documenting WordPress configuration, SEO keyword planning, campaign modeling, and workflow boards.
+* **Complete Strategy Documentation:** Detailed markdown report located in `docs/AI_Basics_Hub_Digital_Marketing_Project.md`.
+* **Structured Data:** Metadata and campaign definitions in `data/project.json`.
+* **GitHub Pages CI/CD:** Automated deployment via GitHub Actions (`.github/workflows/pages.yml`).
 
-### Option A — simplest: deploy from the repository branch
+---
 
-1. Create a new GitHub repository, for example `ai-basics-hub-digital-marketing`.
-2. Upload all files from this folder to the repository root.
-3. Commit and push to the default branch.
-4. Open **Settings → Pages**.
-5. Choose **Deploy from a branch**, select the default branch and `/ (root)`, then save.
+## Transparency & Project Context
 
-### Option B — GitHub Actions
+This project documents strategy, planning frameworks, and implementation methodology for an educational platform. Planned initiatives (such as Google Ads campaigns and email marketing automation) are explicitly cataloged as planning and reconstruction artifacts rather than active historical ad spend.
 
-The repository also contains `.github/workflows/pages.yml`. When Pages is configured to use GitHub Actions, pushes to `main` can deploy the static site automatically.
+---
 
-The site is plain HTML/CSS/JS, so no Node.js or build step is required.
+## Local Development
+
+The site uses standard web technologies without external framework build steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/1-a-d-i-t-y-a/AI-Basics-Hub.git
+   cd AI-Basics-Hub
+   ```
+2. Open `index.html` directly in your browser or run a lightweight local HTTP server:
+   ```bash
+   python -m http.server 3000
+   ```
+   Navigate to `http://localhost:3000`.
+
+---
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
